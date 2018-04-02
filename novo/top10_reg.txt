@@ -1,0 +1,32 @@
+>>> linreg.lbd = 1
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8572554.6165011395, 2985.3468341125658)
+>>> linreg.lbd = 10
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8630964.498855209, 2993.3878197585991)
+>>> linreg.lbd = 3
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8592484.9099032711, 2986.0846682000383)
+>>> linreg.lbd = 2
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8585022.8654085249, 2985.1372371426464)
+>>> linreg.lbd = 1.5
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8579978.5913326275, 2985.0159385155921)
+>>> linreg.lbd = 0.1
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8537184.1490939725, 2992.8739473123983)
+>>> linreg.lbd = 0.6
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8562676.5812292248, 2986.9375711720463)
+>>> linreg.lbd = 0.8
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg_top, y_reg)
+(8568270.8283378128, 2985.8300714325028)

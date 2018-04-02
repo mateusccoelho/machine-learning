@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{sp}
+Sasa Petrovic, Miles Osborne, and Victor Lavrenko.
+\newblock Rt to win! predicting message propagation in twitter.
+\newblock In {\em Proceedings of the Fifth International AAAI Conference on
+  Weblogs and Social Media}, pages 586--589, Barcelona, Espanha, 2011.
+
+\bibitem{rb}
+Roja Bandari, Sitaram Asur, and Bernardo~A. Huberman.
+\newblock The pulse of news in social media: Forecasting popularity.
+\newblock In {\em Proceedings of the Sixth International AAAI Conference on
+  Weblogs and Social Media}, pages 26--33, Anchorage, AK, USA, 2012.
+
+\bibitem{kf}
+Kelwin Fernandes, Pedro Vinagre, and Paulo Cortez.
+\newblock A proactive intelligent decision support system for predicting the
+  popularity of online news.
+\newblock In {\em Proceedings of the 17th EPIA 2015 - Portuguese Conference on
+  Artificial Intelligence}, pages 535--546, Coimbra, Portugal, 2015.
+
+\end{thebibliography}

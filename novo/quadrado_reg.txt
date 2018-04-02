@@ -1,0 +1,16 @@
+>>> linreg.lbd = 1
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg, y_reg)
+(6727915.2444651555, 2876.46915660989)
+>>> linreg.lbd = 10
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg, y_reg)
+(6792394.4436942749, 2887.4327285662844)
+>>> linreg.lbd = 0.3
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg, y_reg)
+(6697476.0531617748, 2878.0533350769506)
+>>> linreg.lbd = 0.6
+>>> linreg.normal_eq()
+>>> linreg.score(x_reg, y_reg)
+(6713579.6821135236, 2876.85644491013)

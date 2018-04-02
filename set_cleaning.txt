@@ -1,0 +1,18 @@
+comeco = 31715
+
+primeira limpeza foi suave: 33 remocoes de linha
+	MAE 3110 com lbd = 1000
+	total de linhas = 31682
+
+segunda limpza foi mais agressiva: 193 remocoes de linha
+	MAE 3082 com lbd = 100
+	total de linhas = 31489
+
+terceira limpeza: 1009 remocoes de linha DE shares
+	MAE 2642 com lbd = 10
+	total de linhas 30480
+
+
+df.drop(df.index[range(df.shape[0]-30,df.shape[0])],axis=0,inplace=True)
+
+EJO
